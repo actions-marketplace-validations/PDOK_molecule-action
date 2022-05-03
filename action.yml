@@ -1,5 +1,5 @@
 ---
-name: Ansible Molecule
+name: PDOK Ansible Molecule
 description: Run Ansible Molecule
 author: Evgenii Vasilenko <gmrnsk@gmail.com>
 
