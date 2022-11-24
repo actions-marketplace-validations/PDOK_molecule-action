@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-flake8 = "==4.0.1"
+flake8 = "==6.0.0"
 molecule-inspec = "==1.1"
 molecule = {version = "==3.6.1", extras = ["docker", "podman", "lint"]}
 testinfra = "==6.0.0"
